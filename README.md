@@ -39,6 +39,32 @@ o Tools like binwalk, stegsolve, or zsteg can be used for deeper analysis, espec
 <img width="478" alt="image" src="https://github.com/user-attachments/assets/51e0bcad-b689-48cb-bccf-c8afc4bf2b19" />
 
 
+<img width="540" alt="image" src="https://github.com/user-attachments/assets/31bda16d-f5bc-4820-b2ed-9fbd299816a3" />
+
+
+
+
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/64215dbe-8643-4665-8836-e762e41fe86c" />
+
+
+<img width="627" alt="image" src="https://github.com/user-attachments/assets/cf538c78-40fe-4f75-9742-33885051e2e0" />
+
+
+
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/d3c83910-4b9d-4692-8def-dfbcdaf1b3e9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
